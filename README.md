@@ -29,7 +29,7 @@ The goal of this project is to provide an interactive way to explore salary tren
 
 ## 📷 Dashboard Preview
 
-![Data Science Salary Dashboard](IMG-20260305-WA0108.jpg)
+![Data Science Salary Dashboard](images/IMG-20260305-WA0108.jpg)
 ## 📁 Project Files
 
 * `Data Science Salary Dashboard.xlsx` — Interactive Excel dashboard
